@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="customsearch"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="/Users/zijiguo/Documents/workspace/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/jython-installer-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/bcpkix-jdk15on-155.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/bcprov-jdk15on-155.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/orchid-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/selenium-server-standalone-3.0.0-beta3.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/httpcore-ab-4.4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/httpcore-nio-4.4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/slf4j-migrator-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/jul-to-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/log4j-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/osgi-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/slf4j-ext-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/httpcore5-5.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/maven-resources-plugin-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/JSON parser v1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/dnsjava-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/postgresql-9.4-1201.jdbc41.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/httpcore-osgi-4.3-beta1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/java-json.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/scprov-jdk15on-1.47.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/scpkix-jdk15on-1.47.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/commons-httpclient-3.1-beta1.jar"/>
+	<classpathentry kind="lib" path="/Users/zijiguo/Downloads/jar/jsoup-1.10.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
