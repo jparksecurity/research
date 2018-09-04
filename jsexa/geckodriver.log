@@ -1,0 +1,125 @@
+1484896586171	geckodriver	INFO	Listening on 127.0.0.1:49897
+1484896587132	mozprofile::profile	INFO	Using profile path /var/folders/tr/jby8vhk91slcymg3vydl3ttc0000gn/T/rust_mozprofile.0BEsgxOeYZWk
+1484896587134	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox
+1484896587136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49906
+1484896587300	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1484896648500	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1484896730344	geckodriver	INFO	Listening on 127.0.0.1:49929
+1484896731300	mozprofile::profile	INFO	Using profile path /var/folders/tr/jby8vhk91slcymg3vydl3ttc0000gn/T/rust_mozprofile.SWZ8m1SVZsZI
+1484896731302	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox
+1484896731304	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49938
+1484896731400	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1484896793500	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+1484896811931	geckodriver	INFO	Listening on 127.0.0.1:49960
+1484896812896	mozprofile::profile	INFO	Using profile path /var/folders/tr/jby8vhk91slcymg3vydl3ttc0000gn/T/rust_mozprofile.J0S3h6GH21jg
+1484896812897	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox
+1484896812900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49969
+1484896813000	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1484896874800	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "SSL is required and URI scheme is not https."  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 145"  data: no]
+JavaScript warning: https://duckduckgo.com/d2045.js, line 61: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2045.js, line 61: unreachable code after return statement
+Jan 20 02:26:14 ZijiGuodeMacBook-Pro.local firefox[5203] <Error>: clip: empty path.
+Jan 20 02:26:15 ZijiGuodeMacBook-Pro.local firefox[5203] <Error>: clip: empty path.
+JavaScript warning: https://duckduckgo.com/d2045.js, line 61: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2045.js, line 61: unreachable code after return statement
+JavaScript error: https://www.iplocation.net/assets/js/init.js, line 5: TypeError: $(...).offset(...) is undefined
+JavaScript warning: https://route.carambo.la/inimage/getlayer?pid=brnd97&did=112233&wid=0, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=4&advId=457408717&campId=&pubId=1460112958&chanId=1484900919&placementId=9b8834f3-9a98-4271-b029-16f968e9b5ce, line 219: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: http://www.baidu.com/, line 648: ReferenceError: $ is not defined
+JavaScript error: http://www.baidu.com/, line 705: ReferenceError: $ is not defined
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=iastate&rn=&oq=&rsv_pq=f4b0a1b20001a395&rsv_t=2955CVuy%2BqNy3O6cboFTfrCO4%2BHQF9wGkrvvHLIChXSoQqSzNIy4WjTWmX4&rqlang=cn, line 2511: ReferenceError: $ is not defined
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_1ae0913.js, line 120: ReferenceError: $ is not defined
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_1ae0913.js, line 57: ReferenceError: $ is not defined
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://c.amazon-adsystem.com/aax2/csm.js.gz, line 1: TypeError: window.location is null
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
+JavaScript error: https://cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc, line 1: SyntaxError: illegal character
+JavaScript error: https://match.adsrvr.org/track/cmf/contextweb, line 1: SyntaxError: illegal character
